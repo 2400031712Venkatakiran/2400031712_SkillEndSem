@@ -1,0 +1,23 @@
+.profile{
+    background-color: white;
+    margin:5px 5px;
+    padding:10px 10px;
+}
+.name{
+    font-size:22px;
+    color:orange;
+    padding:5px;
+    text-decoration:none;
+
+}
+.age{
+    font-size:22px;
+    color:orange;
+    padding:5px;
+
+}
+.bio{
+    font-size:22px;
+    color:orange;
+    padding:5px;
+}
