@@ -4,5 +4,6 @@
 // learn more: https://github.com/testing-library/jest-dom
 // Added second comment line
 // editing the file to create merge conflict
+// added a third comment
 // added third line for different merge conflict
 import '@testing-library/jest-dom';
